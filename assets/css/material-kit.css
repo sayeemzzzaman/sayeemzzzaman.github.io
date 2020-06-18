@@ -1,15 +1,4 @@
-/*!
 
- =========================================================
- * Material Kit - v2.0.7
- =========================================================
-
- * Product Page: https://www.creative-tim.com/product/material-kit
- * Copyright 2020 Creative Tim (http://www.creative-tim.com)
-
- =========================================================
-
- * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
  */
 /*     brand Colors              */
@@ -14657,7 +14646,7 @@ textarea {
   padding: 0.625rem 0;
   margin-bottom: 20px;
   color: #555;
-  background-color: #ffffff !important;
+  background-color: #212529  !important;
   box-shadow: 0 4px 18px 0px rgba(0, 0, 0, 0.12), 0 7px 10px -5px rgba(0, 0, 0, 0.15);
 }
 
@@ -14678,9 +14667,9 @@ textarea {
 
 .navbar .navbar-nav .nav-item .nav-link {
   position: relative;
-  color: inherit;
+  color: white;
   padding: 0.9375rem;
-  font-weight: 400;
+  font-weight: bold;
   font-size: 12px;
   text-transform: uppercase;
   border-radius: 3px;
@@ -14774,7 +14763,8 @@ textarea {
 
 .navbar .navbar-brand {
   position: relative;
-  color: inherit;
+  color: white;
+  font-weight: bold;
   height: 50px;
   font-size: 1.125rem;
   line-height: 30px;
@@ -16906,9 +16896,9 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
 
 .purple-filter:after {
   background: rgba(101, 47, 142, 0.64);
-  background: linear-gradient(45deg, rgba(101, 47, 142, 0.88) 0%, rgba(125, 46, 185, 0.45) 100%);
-  background: -moz-linear-gradient(135deg, rgba(101, 47, 142, 0.88) 0%, rgba(125, 46, 185, 0.45) 100%);
-  background: -webkit-linear-gradient(135deg, rgba(101, 47, 142, 0.88) 0%, rgba(125, 46, 185, 0.45) 100%);
+  background: linear-gradient(45deg, rgba(101, 47, 142, 0.88) 0%, rgba(125, 46, 185, 0.45) 0%);
+  background: -moz-linear-gradient(135deg, rgba(101, 47, 142, 0.88) 0%, rgba(125, 46, 185, 0.45) 0%);
+  background: -webkit-linear-gradient(135deg, rgba(101, 47, 142, 0.88) 0%, rgba(125, 46, 185, 0.45) 0%);
 }
 
 footer {
