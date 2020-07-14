@@ -58,6 +58,8 @@ body {
   background-color: #fafafa;
 }
 
+
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
@@ -12025,6 +12027,9 @@ label {
 
 .sharing-area {
   margin-top: 80px;
+  
+  
+
 }
 
 .sharing-area .btn {
@@ -19080,4 +19085,19 @@ footer .pull-center {
   }
 }
 
-/*# sourceMappingURL=kit-free.css.map */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
